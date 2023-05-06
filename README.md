@@ -1,2 +1,2 @@
 # zstl
-my stl
+This is a library I wrote as an exercise, modeled after the STL library.

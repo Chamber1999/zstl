@@ -1,0 +1,3 @@
+/home/lei/workspace/zstl/build/CMakeFiles/main.dir
+/home/lei/workspace/zstl/build/CMakeFiles/edit_cache.dir
+/home/lei/workspace/zstl/build/CMakeFiles/rebuild_cache.dir

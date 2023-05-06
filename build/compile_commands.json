@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/lei/workspace/zstl/build",
+  "command": "/usr/bin/g++  -I/home/lei/workspace/zstl/include -g -o CMakeFiles/main.dir/main.o -c /home/lei/workspace/zstl/main.cpp",
+  "file": "/home/lei/workspace/zstl/main.cpp"
+}
+]
